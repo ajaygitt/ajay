@@ -64,13 +64,13 @@ h5,
 h6 {
     font-family: 'Source Sans Pro', sans-serif;
     color: #000;
-    font-weight: 600;
+    font-weight: 400;
     line-height: 1.7;
     margin: 0;
 }
 
 .d-table {
-    width: 100%;
+    width: 100zzz%;
     height: 100%;
 }
 
@@ -333,7 +333,7 @@ button:focus {
 
 .hero-content h1 {
     color: #fff;
-    font-size: 90px;
+    font-size: 64px;
     font-weight: 700;
     font-family:Verdana, Geneva, Tahoma, sans-serif;
     line-height: 1;
